@@ -1,0 +1,12 @@
+[21-Feb-2024 10:09:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/bengawanjaya.co.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/bengawanjaya.co.id/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Feb-2024 13:13:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/bengawanjaya.co.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/bengawanjaya.co.id/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-May-2024 09:50:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/bengawanjaya.co.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/bengawanjaya.co.id/wp-includes/widgets/class-wp-widget-block.php on line 17

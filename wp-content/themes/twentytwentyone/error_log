@@ -1,0 +1,4 @@
+[24-Mar-2024 21:23:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/websit19/bengawanjaya.co.id/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/bengawanjaya.co.id/wp-content/themes/twentytwentyone/index.php on line 17
